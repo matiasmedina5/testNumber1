@@ -1,0 +1,14 @@
+[global]
+ApplicationName=testNumber1
+AwsCredentialFile=C:\Users\Puma\.elasticbeanstalk\aws_credential_file
+DevToolsEndpoint=git.elasticbeanstalk.us-west-1.amazonaws.com
+EnvironmentName=testNumber1
+EnvironmentTier=WebServer::Standard::1.0
+EnvironmentType=SingleInstance
+InstanceProfileName=
+OptionSettingFile=C:\Users\Puma\Documents\GitHub\testNumber1\.elasticbeanstalk\optionsettings.testNumber1
+RdsEnabled=No
+Region=us-west-1
+ServiceEndpoint=https://elasticbeanstalk.us-west-1.amazonaws.com
+SolutionStack=64bit Amazon Linux 2014.02 running PHP 5.5
+
